@@ -1,5 +1,5 @@
 # Para empezar
-pnpm install
+npm install
 
 # Para iniciar el proyecto
 next dev
