@@ -2,7 +2,7 @@
 pnpm install
 
 # Para iniciar el proyecto
-next dev
+npm run dev
    
 
 
